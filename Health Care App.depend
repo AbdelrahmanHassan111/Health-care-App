@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1672332327 source:a:\c++ for my frineds\health care app\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
